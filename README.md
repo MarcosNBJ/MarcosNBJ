@@ -1,4 +1,5 @@
 ## Hi there ! 
+<img align='right' alt="Collaboration" src="assets/diversity-code.png" width="320"/>
 
 I'm a software engineer with a passion for almost everything tech or education related. My experience is mostly in developing websites, mobile applications and solutions for data analysis and deep learning. Nevertheless, I'm always willingly to expand and learn to act in other areas, after all, knowledge is the key.
 
