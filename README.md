@@ -8,6 +8,7 @@ I also believe that every solution to a problem, every project, every business o
 ## Contact me at
 
 <p >
-<a href="https://github.com/MarcosNBJ"><img height="20" src="https://img.shields.io/github/followers/marcosnbj?label=follow&style=social"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/marcosnbj/"><img  height="25" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png"></a>
+<a href="mailto:marcosnery.comp@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://github.com/MarcosNBJ"><img  src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marcosnbj/"><img   src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
